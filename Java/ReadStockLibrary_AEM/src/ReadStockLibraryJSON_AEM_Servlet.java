@@ -172,9 +172,9 @@ public void destroy()
 			
 			System.out.println("Starting CCSDK Test = READSTOCKLIBRARYJSON_AEM");
 			// API Key details go here
-			String orgID = "F02AEB4D553170470A4C98A5@AdobeOrg";
-			File privateKeyFile = new File("/users/rcurtis/AEDASH_API_KEY/22032017/private.key");
-			String xAPIKEY = "5e619f4452c34a5dae15e72786d4d5a7";
+			String orgID = "{ORG}";
+			File privateKeyFile = new File("{private key file}");
+			String xAPIKEY = "{xAPI}";
 			// Load the private key file
 			PrivateKey pk = pemFileLoadPrivateKeyPkcs1OrPkcs8Encoded(privateKeyFile);
 			// Generate an expiry date as a long
@@ -285,9 +285,9 @@ public void destroy()
 		printoutput();
 		System.out.println("Starting CCSDK Test");
 		// API Key details go here
-		String orgID = "F02AEB4D553170470A4C98A5@AdobeOrg";
-		File privateKeyFile = new File("/users/rcurtis/AEDASH_API_KEY/22032017/private.key");
-		String xAPIKEY = "5e619f4452c34a5dae15e72786d4d5a7";
+		String orgID = "{orgid}";
+		File privateKeyFile = new File("{private key}");
+		String xAPIKEY = "xAPIKey";
 		// Load the private key file
 		PrivateKey pk = pemFileLoadPrivateKeyPkcs1OrPkcs8Encoded(privateKeyFile);
 		// Generate an expiry date as a long
@@ -419,13 +419,13 @@ public void destroy()
 		Long ttlMillis = new Long(199906);
 		String JWTreturn = createJWT(ttlMillis,pk,orgID,xAPIKEY);   
 		JSONObject obj=null;
-		String clientId="5e619f4452c34a5dae15e72786d4d5a7";
-		String clientSecret= "a647a3cd-975c-40d4-9c72-c704964e0434";
+		String clientId="{client ID}";
+		String clientSecret= "{CLient Secret}";
 		System.out.println("JWT Return " + JWTreturn);
 	
 		URL url = new URL("https://ims-na1.adobelogin.com/ims/exchange/jwt/");
 
-		String encode = "client_secret="+clientSecret+"&38264C7058B83A600A495E5A@techacct.adobe.com&jwt_token="+JWTreturn;
+		String encode = "client_secret="+clientSecret+"&{clientsecret}&jwt_token="+JWTreturn;
 		
        	Map<String,Object> params = new LinkedHashMap<>();
 
@@ -493,7 +493,7 @@ public void destroy()
 		SignatureAlgorithm signatureAlgorithm = SignatureAlgorithm.RS256;
 
 		String setAudience="https://ims-na1.adobelogin.com/c/"+xAPIKEY;
-		String setSubject="67A0AEAA58D291A50A495DE5@techacct.adobe.com";
+		String setSubject="{techacct}";
 		
 		long nowMillis = System.currentTimeMillis();
 		Date now = new Date(nowMillis);
