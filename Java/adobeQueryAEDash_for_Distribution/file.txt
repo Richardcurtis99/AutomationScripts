@@ -1,0 +1,232 @@
+Print in the file !!
+Starting Groups / Users report
+JWT Return eyJhbGciOiJSUzI1NiJ9.eyJodHRwczovL2ltcy1uYTEuYWRvYmVsb2dpbi5jb20vcy9lbnRfdXNlcl9zZGsiOnRydWUsImV4cCI6MTQ3MjU1ODA2MywiaXNzIjoiRUI1RTY1OUY1Njk1M0NDMzdGMDAwMTAxQEFkb2JlT3JnIiwic3ViIjoiMzBBNTQ3MDE1N0MwNTA3MzdGMDAwMTAxQHRlY2hhY2N0LmFkb2JlLmNvbSIsImF1ZCI6Imh0dHBzOi8vaW1zLW5hMS5hZG9iZWxvZ2luLmNvbS9jLzhkYjQwOGM1MWQ1YjQxMGU4YWM2ZmMwMmY3YzA4ODdlIn0.dj6RNrtU3dVJWJEG9xMZbOqTGsdSsfRzcNutBXlWXdjTPxWqIDT6KbB4k4ilEbm-5WVrPoiy9Lz-VAJna5BvQMRuEA9oKr-9vZ2YiNX69RkmZtT50bpa6HIwN7g9JxNVlVLPgLMww2eRw1PL1JgjzAyE9DkozR9_LCFdcIsTz-V8ZA3JqKDsRHj3P3jcFhNAJ50fWTZ29WRW2QsZHpWLe4Iz959rbjN-gA3euY-_yGmPxTNQW_5jMPIX2KCk6hfIZNgyAedP8-CQEJL45yJWAXTBk2Os7tvoRWEyKDAlvMcwyHKZ-tF3aIfRBK0CacSKck7GJo1A0gunB3G_h9xhcw
+Connection is OK
+token type bearer, access token eyJ4NXUiOiJpbXNfbmExLWtleS0xLmNlciIsImFsZyI6IlJTMjU2In0.eyJmZyI6IlFXNklNWTZLQU1BQUFBQUFBQUFBQUFFTEFBPT09PT09IiwiYXMiOiJpbXMtbmExIiwiYyI6IjNzL2RWenRObHVYTlZXOVRyTmN5SXc9PSIsInVzZXJfaWQiOiIzMEE1NDcwMTU3QzA1MDczN0YwMDAxMDFAdGVjaGFjY3QuYWRvYmUuY29tIiwibW9pIjoiNzY4NWZkYzAiLCJzY29wZSI6Im9wZW5pZCx1c2VyX21hbmFnZW1lbnRfc2RrLEFkb2JlSUQiLCJjcmVhdGVkX2F0IjoiMTQ3MjU1Nzg0NzUwMyIsImlkIjoiMTQ3MjU1Nzg0NzUwMy1mYTYzYWFlNi01MjVkLTQ1ODEtOWI3Zi04NzA2YTUzMTZkODgiLCJ0eXBlIjoiYWNjZXNzX3Rva2VuIiwiZXhwaXJlc19pbiI6Ijg2NDAwMDAwIiwiY2xpZW50X2lkIjoiOGRiNDA4YzUxZDViNDEwZThhYzZmYzAyZjdjMDg4N2UifQ.OUMoZ-nxPlhJK4rl5xvfyZB2fxUflKjbkTEBzCqmyaiQ2PYZ-3vpil9l5LQVz8AkoBg4dg_JfUsGrjdPHdgKph_41REiLordXiHjdjOUad1DR8XAUEaxBwxGQATk_V2kw0b9iVPIemo_tvbCSaEyqrMVqxmMY_WhpFAs4O3i3eq1c6yAysAl43dMr5Uo3DQ7KfYdhbfnBNyBxmP8ng7S78bxYsXwAgFu4wZPQFSKLGNjJtx8SmvStCNZla2eCRU_qDA5q8ciqSJoQdrJxyQaDtZxDdp86Q6XLJbuedQgCYYe6TZjlH9inurB0cTfbCRxKUi9eb9lTANL31cwoxCIig
+access token eyJ4NXUiOiJpbXNfbmExLWtleS0xLmNlciIsImFsZyI6IlJTMjU2In0.eyJmZyI6IlFXNklNWTZLQU1BQUFBQUFBQUFBQUFFTEFBPT09PT09IiwiYXMiOiJpbXMtbmExIiwiYyI6IjNzL2RWenRObHVYTlZXOVRyTmN5SXc9PSIsInVzZXJfaWQiOiIzMEE1NDcwMTU3QzA1MDczN0YwMDAxMDFAdGVjaGFjY3QuYWRvYmUuY29tIiwibW9pIjoiNzY4NWZkYzAiLCJzY29wZSI6Im9wZW5pZCx1c2VyX21hbmFnZW1lbnRfc2RrLEFkb2JlSUQiLCJjcmVhdGVkX2F0IjoiMTQ3MjU1Nzg0NzUwMyIsImlkIjoiMTQ3MjU1Nzg0NzUwMy1mYTYzYWFlNi01MjVkLTQ1ODEtOWI3Zi04NzA2YTUzMTZkODgiLCJ0eXBlIjoiYWNjZXNzX3Rva2VuIiwiZXhwaXJlc19pbiI6Ijg2NDAwMDAwIiwiY2xpZW50X2lkIjoiOGRiNDA4YzUxZDViNDEwZThhYzZmYzAyZjdjMDg4N2UifQ.OUMoZ-nxPlhJK4rl5xvfyZB2fxUflKjbkTEBzCqmyaiQ2PYZ-3vpil9l5LQVz8AkoBg4dg_JfUsGrjdPHdgKph_41REiLordXiHjdjOUad1DR8XAUEaxBwxGQATk_V2kw0b9iVPIemo_tvbCSaEyqrMVqxmMY_WhpFAs4O3i3eq1c6yAysAl43dMr5Uo3DQ7KfYdhbfnBNyBxmP8ng7S78bxYsXwAgFu4wZPQFSKLGNjJtx8SmvStCNZla2eCRU_qDA5q8ciqSJoQdrJxyQaDtZxDdp86Q6XLJbuedQgCYYe6TZjlH9inurB0cTfbCRxKUi9eb9lTANL31cwoxCIig
+status code 200Reason phase OK
+
+Group Name Administrators, there are 11 users in the group
+country:CA	email:IT@GRIPLIMITED.COM name :SYSTEM ADMINISTRATOR status :active
+country:DE	email:Daniel.Seehof@dentsuaegis.com name :Daniel Seehof status :active
+country:GB	email:claus.damgaard@dentsuaegis.com name :Claus Damgaard status :active
+country:GB	email:Gabriel.Markos@dentsuaegis.com name :Gabriel Markos status :active
+country:GB	email:GBARKER@ADOBE.COM name :Gordon Barker status :active
+country:GB	email:george.waugh@dentsuaegis.com name :george waugh status :active
+country:GB	email:James.Thomas@dentsuaegis.com name :James Thomas status :active
+country:GB	email:MARC.VANDENSCHRIECK@DENTSUAEGIS.COM name :MARC VANDEN SCHRIECK status :active
+country:GB	email:paul.yates@dentsuaegis.com name :Paul Yates status :active
+country:GB	email:PHIL.GIARDINA@MCGARRYBOWEN.COM name :PHIL GIARDINA status :active
+country:GB	email:RCURTIS@ADOBE.COM name :Richard Curtis status :active
+
+Group Name BELGIUM - CLICKPOINT, there are 8 users in the group
+country:BE	email:emilie.nauwelaerts@clickpoint.be name :Emilie Nauwelaerts status :active
+country:BE	email:jordy.vandelocht@clickpoint.be name :Jordy Van de Locht status :active
+country:BE	email:kristof.vosters@clickpoint.be name :Kristof Vosters status :active
+country:BE	email:lieselot.vaningelgem@clickpoint.be name :Lieselot Van Ingelgem status :active
+country:BE	email:marc.vandenschrieck-adm@dentsuaegis.com name :Marc Vandenschrieck-ADM status :active
+country:BE	email:merlijn.vanholder@clickpoint.be name :Merlijn Van Holder status :active
+country:BE	email:mien.vandepoel@clickpoint.be name :Mien Van de Poel status :active
+country:BE	email:sandrine.blanckaert@clickpoint.be name :Sandrine Blanckaert status :active
+
+Group Name HUNGARY - ISOBAR, there are 11 users in the group
+country:HU	email:andras.pasztor@isobar.com name :Andras Pasztor status :active
+country:HU	email:anna.adamik@isobar.com name :Adamik Anna status :active
+country:HU	email:boglarka.toth@isobar.com name :Boglarka Tóth status :active
+country:HU	email:daniel.nyikos@isobar.com name :Dani Nyikos status :active
+country:HU	email:fanny.meszaros@isobar.com name :Fanny Mészáros status :active
+country:HU	email:martina.gyorffy@isobar.com name :Martina Győrffy status :active
+country:HU	email:mihaly.szabo@isobar.com name :Mihály Szabó status :active
+country:HU	email:peter.orban@isobar.com name :Peter Orban status :active
+country:HU	email:tamas.jonas@isobar.com name :Jónás Tamás status :active
+country:HU	email:vince.keresnyei@isobar.com name :Vince Keresnyei status :active
+country:HU	email:violetta.kalmar@isobar.com name :Violetta Kalmár status :active
+
+Group Name UK - ICUC SOCIAL, there are 6 users in the group
+country:GB	email:davey.blackett@icuc.social name :David Blackett status :active
+country:GB	email:david.houston@icuc.social name :David Houston status :active
+country:GB	email:graeme.ross@icuc.social name :Graeme Ross status :active
+country:GB	email:Jacqueline.watkiss@icuc.social name :Jacqueline Watkiss status :active
+country:GB	email:melis.zeki@icuc.social name :Melis Zeki status :active
+country:GB	email:stuart.parkins@icuc.social name :Stuart Parkins status :active
+
+Group Name US - MGB, there are 1 users in the group
+country:GB	email:PHIL.GIARDINA@MCGARRYBOWEN.COM name :PHIL GIARDINA status :active
+
+Group Name UK - MGB, there are 8 users in the group
+country:GB	email:Ashleigh.Cleary-Parker@mcgarrybowen.com name :Ashleigh Cleary-Parker status :active
+country:GB	email:Danny.Tomkins@mcgarrybowen.com name :Danny Tomkins status :active
+country:GB	email:frank.thiruchelvam@mcgarrybowen.com name :Frank Thiruchelvam status :active
+country:GB	email:holly.fallows@mcgarrybowen.com name :Holly Fallows status :active
+country:GB	email:James.Thomas@dentsuaegis.com name :James Thomas status :active
+country:GB	email:Mike.Heath@mcgarrybowen.com name :Mike Heath status :active
+country:GB	email:neil.drummond@mcgarrybowen.com name :Neil Drummond status :active
+country:GB	email:tom.moore@mcgarrybowen.com name :Tom Moore status :active
+
+Group Name MENA, there are 3 users in the group
+country:AE	email:sara.paye@dentsuaegis.com name :Sara Paye status :active
+country:AE	email:Vilma.Purvinyte@carat.com name :Vilma Purvinyte status :active
+country:SA	email:karim.masri@carat.com name :Karim Masri status :active
+
+Group Name UK - 360i, there are 10 users in the group
+country:GB	email:alexander.hernesten@360i.com name :Alexander Hernesten status :active
+country:GB	email:Ben.Carmichael@360i.com name :Benjamin Carmichael status :active
+country:GB	email:Claudia.ChanYingTung@360i.com name :Claudia Chan status :active
+country:GB	email:daniel.pilaprat@360i.com name :Daniel Pilaprat status :active
+country:GB	email:jamie.poole@360i.com name :Jamie Poole status :active
+country:GB	email:julie.reid@360i.com name :Julie Reid status :active
+country:GB	email:koen-james.woldringh@360i.com name :James Woldringh status :active
+country:GB	email:liam.thomas@360i.com name :Liam Thomas status :active
+country:GB	email:shrutika.shah@360i.com name :Shrutika Shah status :active
+country:US	email:amanda.kwan@360i.com name :Amanda Kwan status :active
+
+Group Name UK - ISOBAR, there are 21 users in the group
+country:GB	email:Adrian.Matthews@isobar.com name :Ade Matthews status :active
+country:GB	email:Andy.Thirsk@isobar.com name :Andy Thirsk status :active
+country:GB	email:becci.salmon@isobar.com name :becci salmon status :active
+country:GB	email:Ben.Richardson@isobar.com name :Ben Richardson status :active
+country:GB	email:Benjamin.Wilde@isobar.com name :Ben Wilde status :active
+country:GB	email:Chloe.Bishop@isobar.com name :Chloe Bishop status :active
+country:GB	email:Christina.Worman@isobar.com name :Christina Worman status :active
+country:GB	email:Darren.Giles@isobar.com name :Darren Giles status :active
+country:GB	email:dilesh.lalloo@isobar.com name :Dilesh Lalloo status :active
+country:GB	email:Don.Dennis@isobar.com name :Don Kannangara status :active
+country:GB	email:Filipa.CoelhoFerreira@isobar.com name :Filipa Ferreira status :active
+country:GB	email:James.Leigh@isobar.com name :James Leigh status :active
+country:GB	email:Kevin.Ferry@isobar.com name :kevin ferry status :active
+country:GB	email:matt.gee@isobar.com name :Matt Gee status :active
+country:GB	email:Sabina.Begum@isobar.com name :Sabina Begum status :active
+country:GB	email:Sam.Willard@isobar.com name :Sam Willard status :active
+country:GB	email:Sarah.Butler@isobar.com name :Sarah Butler status :active
+country:GB	email:simon.gill@isobar.com name :Simon Gill status :active
+country:GB	email:tom.haswell@isobar.com name :Tom Haswell status :active
+country:GB	email:Vickki.Mathurin@isobar.com name :Vickki Mathurin status :active
+country:GB	email:Zak.Loney@isobar.com name :Zak Loney status :active
+
+Group Name UK - AMC, there are 9 users in the group
+country:GB	email:ana.bardaji@dentsuaegis.com name :Ana Maria Bardaji status :active
+country:GB	email:gary.wrigley@dentsuaegis.com name :Gary Wrigley status :active
+country:GB	email:joanne.knapman@dentsuaegis.com name :Joanne Knapman status :active
+country:GB	email:kasana.southgate@dentsuaegis.com name :Kasana Southgate status :active
+country:GB	email:Katie.Murray@dentsuaegis.com name :Katie Murray status :active
+country:GB	email:oliver.forrest@dentsuaegis.com name :Ollie Forrest status :active
+country:GB	email:Sophie.Ord-Hume@dentsuaegis.com name :Sophie Ord-Hume status :active
+country:GB	email:steve.hope@dentsuaegis.com name :Steve Hope status :active
+country:GB	email:thomas.tang@dentsuaegis.com name :thomas tang status :active
+
+Group Name Default Custom plan - Design - 0 GB configuration, there are 1 users in the group
+country:US	email:anthony.esposito@mcgarrybowen.com name :Anthony Esposito status :active
+
+Group Name CANADA - GRIP, there are 49 users in the group
+country:CA	email:bensteele@griplimited.com name :Ben Steele status :active
+country:CA	email:bradleyhodgkinson@griplimited.com name :Bradley Hodgkinson status :active
+country:CA	email:colincraig@griplimited.com name :Colin Craig status :active
+country:CA	email:craigbrandon@griplimited.com name :Craig Brandon status :active
+country:CA	email:danbache@griplimited.com name :Dan Bache status :active
+country:CA	email:davidfaris@griplimited.com name :David Faris status :active
+country:CA	email:davidgiancroce@griplimited.com name :David Giancroce status :active
+country:CA	email:doughayter@griplimited.com name :Doug Hayter status :active
+country:CA	email:duanevandermeulen@griplimited.com name :Duane Vandermeulen status :active
+country:CA	email:gabrielpatti@griplimited.com name :Gabriel Patti status :active
+country:CA	email:garywickham@griplimited.com name :Gary Wickham status :active
+country:CA	email:gianabaldassarra@griplimited.com name :Giana Baldassarra status :active
+country:CA	email:graemenishida@griplimited.com name :Graeme Nishida status :active
+country:CA	email:heatherlee@griplimited.com name :Heather Lee status :active
+country:CA	email:hitenpatel@griplimited.com name :Hiten Patel status :active
+country:CA	email:iriswu@griplimited.com name :iris wu status :active
+country:CA	email:jasonpearl@griplimited.com name :Jason Pearl status :active
+country:CA	email:jodywagner@griplimited.com name :J Wagner status :active
+country:CA	email:jonbarnes@griplimited.com name :Jon Barnes status :active
+country:CA	email:juantorres@griplimited.com name :Juan Torres status :active
+country:CA	email:juliamorra@griplimited.com name :Julia Morra status :active
+country:CA	email:kareemhassanien@griplimited.com name :Kareem Hassanien status :active
+country:CA	email:lindsayrenwick@griplimited.com name :Lindsay Renwick status :active
+country:CA	email:loraleclair@griplimited.com name :Lora LeClair status :active
+country:CA	email:luanpirola@griplimited.com name :Luan Pirola status :active
+country:CA	email:marinaglavan@griplimited.com name :Marina Glavan status :active
+country:CA	email:mariuszdabrowski@griplimited.com name :Mariusz Dabrowski status :active
+country:CA	email:markdamico@griplimited.com name :Mark D'Amico status :active
+country:CA	email:michaelcorpuz@griplimited.com name :Michael Corpuz status :active
+country:CA	email:michaelmcgrath@griplimited.com name :Michael McGrath status :active
+country:CA	email:michellebudge@griplimited.com name :Michelle Budge status :active
+country:CA	email:mikkoertolahti@griplimited.com name :Mikko Ertolahti status :active
+country:CA	email:nancyng@griplimited.com name :Nancy Ng status :active
+country:CA	email:peteaspros@griplimited.com name :Pete Aspros status :active
+country:CA	email:pianummi@griplimited.com name :Pia Nummi status :active
+country:CA	email:ralphfloro@griplimited.com name :Ralph Floro status :active
+country:CA	email:rebeccamacdonald@griplimited.com name :Rebecca MacDonald status :active
+country:CA	email:richprycejones@griplimited.com name :Rich Pryce-Jones status :active
+country:CA	email:robwigington@griplimited.com name :Robert Wigington status :active
+country:CA	email:robynwoytiuk@griplimited.com name :Robyn Woytiuk status :active
+country:CA	email:samanthaspykerman@griplimited.com name :Samantha Spykerman status :active
+country:CA	email:scottdube@griplimited.com name :Scott Dube status :active
+country:CA	email:spencerwatson@griplimited.com name :Spencer Watson status :active
+country:CA	email:steveerrett@griplimited.com name :Steve Errett status :active
+country:CA	email:teeganskals@griplimited.com name :Teegan Skals status :active
+country:CA	email:tiffanymondesir@griplimited.com name :Tiffany Mondesir status :active
+country:CA	email:venusnazar@griplimited.com name :Venus Nazar status :active
+country:CA	email:willcuthbert@griplimited.com name :Will Cuthbert status :active
+country:CA	email:zhigao@griplimited.com name :Zhi Gao status :active
+
+Group Name CANADA - GRIP ANIMATE, there are 0 users in the group
+
+Group Name CANADA - GRIP ILLUSTRATOR, there are 0 users in the group
+
+Group Name CANADA - GRIP - PHOTOSHOP, there are 6 users in the group
+country:CA	email:amirashtiani@griplimited.com name :Amir Ashtiani status :active
+country:CA	email:anthonypilger@griplimited.com name :Anthony Pilger status :active
+country:CA	email:daisyqin@griplimited.com name :Daisy Qin status :active
+country:CA	email:jacquiekostuk@griplimited.com name :Jacquie Kostuk status :active
+country:CA	email:lisabyers@griplimited.com name :Lisa Byers status :active
+country:CA	email:ryanaudet@griplimited.com name :Ryan Audet status :active
+
+Group Name UK - 360i - Stock Trial, there are 8 users in the group
+country:GB	email:alexander.hernesten@360i.com name :Alexander Hernesten status :active
+country:GB	email:Ben.Carmichael@360i.com name :Benjamin Carmichael status :active
+country:GB	email:Claudia.ChanYingTung@360i.com name :Claudia Chan status :active
+country:GB	email:daniel.pilaprat@360i.com name :Daniel Pilaprat status :active
+country:GB	email:jamie.poole@360i.com name :Jamie Poole status :active
+country:GB	email:koen-james.woldringh@360i.com name :James Woldringh status :active
+country:GB	email:shrutika.shah@360i.com name :Shrutika Shah status :active
+country:US	email:amanda.kwan@360i.com name :Amanda Kwan status :active
+
+Group Name UK - Isobar - Stock Trial, there are 18 users in the group
+country:CA	email:craigbrandon@griplimited.com name :Craig Brandon status :active
+country:GB	email:Adrian.Matthews@isobar.com name :Ade Matthews status :active
+country:GB	email:Andy.Thirsk@isobar.com name :Andy Thirsk status :active
+country:GB	email:becci.salmon@isobar.com name :becci salmon status :active
+country:GB	email:Ben.Richardson@isobar.com name :Ben Richardson status :active
+country:GB	email:Chloe.Bishop@isobar.com name :Chloe Bishop status :active
+country:GB	email:Christina.Worman@isobar.com name :Christina Worman status :active
+country:GB	email:Darren.Giles@isobar.com name :Darren Giles status :active
+country:GB	email:dilesh.lalloo@isobar.com name :Dilesh Lalloo status :active
+country:GB	email:Filipa.CoelhoFerreira@isobar.com name :Filipa Ferreira status :active
+country:GB	email:James.Leigh@isobar.com name :James Leigh status :active
+country:GB	email:Kevin.Ferry@isobar.com name :kevin ferry status :active
+country:GB	email:matt.gee@isobar.com name :Matt Gee status :active
+country:GB	email:Sabina.Begum@isobar.com name :Sabina Begum status :active
+country:GB	email:Sam.Willard@isobar.com name :Sam Willard status :active
+country:GB	email:Sarah.Butler@isobar.com name :Sarah Butler status :active
+country:GB	email:simon.gill@isobar.com name :Simon Gill status :active
+country:GB	email:tom.haswell@isobar.com name :Tom Haswell status :active
+
+Group Name UK - AMC - Stock Trial, there are 9 users in the group
+country:GB	email:ana.bardaji@dentsuaegis.com name :Ana Maria Bardaji status :active
+country:GB	email:gary.wrigley@dentsuaegis.com name :Gary Wrigley status :active
+country:GB	email:joanne.knapman@dentsuaegis.com name :Joanne Knapman status :active
+country:GB	email:kasana.southgate@dentsuaegis.com name :Kasana Southgate status :active
+country:GB	email:Katie.Murray@dentsuaegis.com name :Katie Murray status :active
+country:GB	email:oliver.forrest@dentsuaegis.com name :Ollie Forrest status :active
+country:GB	email:Sophie.Ord-Hume@dentsuaegis.com name :Sophie Ord-Hume status :active
+country:GB	email:steve.hope@dentsuaegis.com name :Steve Hope status :active
+country:GB	email:thomas.tang@dentsuaegis.com name :thomas tang status :active
+
+Group Name GERMANY - ISOBAR, there are 2 users in the group
+country:DE	email:simone.mueller@isobar.de name :Simone Mueller status :active
+country:DE	email:stephan.halder@isobar.de name :Stephan Halder status :active
+
+Group Name GERMANY - STORYLAB, there are 0 users in the group
+
+Group Name UK - THISISFORTYSIX, there are 0 users in the group
+
+Group Name UK - THISISFORTYSIX - PHOTOSHOP, there are 0 users in the group

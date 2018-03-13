@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/richardcurtis/Desktop/Qrcode/COFE_Backup/jcr_root/apps/qrcode/libs/commons-net-3.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/richardcurtis/Desktop/Qrcode/COFE_Backup/jcr_root/apps/qrcode/libs/javase.jar"/>
+	<classpathentry kind="lib" path="/Users/richardcurtis/Desktop/Qrcode/COFE_Backup/jcr_root/apps/qrcode/libs/core.jar"/>
+	<classpathentry kind="lib" path="libs/slf4j-log4j12-1.7.13.jar"/>
+	<classpathentry kind="lib" path="/Users/richardcurtis/Desktop/Qrcode/COFE_Backup/jcr_root/apps/qrcode/libs/org.apache.felix.bundlerepository-1.0.0.jar"/>
+	<classpathentry kind="lib" path="libs/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="libs/org.apache.felix.scr.annotations-1.9.6.jar"/>
+	<classpathentry kind="lib" path="libs/slf4j-jdk14-1.7.13.jar"/>
+	<classpathentry kind="lib" path="libs/slf4j-api-1.7.13.jar"/>
+	<classpathentry kind="lib" path="libs/org.osgi.core-5.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

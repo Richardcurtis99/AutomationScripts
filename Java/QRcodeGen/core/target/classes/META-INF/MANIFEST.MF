@@ -1,0 +1,35 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1472812124921
+Build-Jdk: 1.8.0_65
+Built-By: richardcurtis
+Bundle-Description: Core bundle for QRcodeGen
+Bundle-ManifestVersion: 2
+Bundle-Name: QRcodeGen - Core
+Bundle-SymbolicName: com.adobe.QRcodeGen.core
+Bundle-Version: 0.0.1.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.adobe.qrcode;uses:="org.osgi.framework";version="0.0
+ .1",com.adobe.qrcode.service;uses:="javax.xml.parsers,org.apache.common
+ s.httpclient,org.xml.sax";version="0.0.1",com.adobe.QRcodeGen.core.filt
+ ers;uses:="javax.servlet";version="0.0.1",com.adobe.QRcodeGen.core.list
+ eners;uses:="org.osgi.service.event";version="0.0.1",com.adobe.QRcodeGe
+ n.core.models;uses:="javax.annotation,javax.inject,org.apache.sling.api
+ .resource,org.apache.sling.models.annotations";version="0.0.1",com.adob
+ e.QRcodeGen.core;version="1.0",com.adobe.QRcodeGen.core.schedulers;vers
+ ion="0.0.1",com.adobe.QRcodeGen.core.servlets;uses:="javax.servlet,org.
+ apache.sling.api,org.apache.sling.api.servlets";version="0.0.1"
+Import-Package: com.adobe.qrcode.service,com.google.zxing,com.google.zxi
+ ng.client.j2se,com.google.zxing.common,com.google.zxing.qrcode,javax.an
+ notation,javax.imageio,javax.imageio.stream,javax.inject;version="[0.0,
+ 1)",javax.servlet,javax.xml.parsers,org.apache.commons.httpclient,org.a
+ pache.commons.httpclient.methods,org.apache.commons.net.ftp,org.apache.
+ sling.api;version="[2.3,3)",org.apache.sling.api.request;version="[2.4,
+ 3)",org.apache.sling.api.resource;version="[2.5,3)",org.apache.sling.ap
+ i.servlets;version="[2.1,3)",org.apache.sling.commons.osgi;version="[2.
+ 2,3)",org.apache.sling.models.annotations;version="[1.0,2)",org.apache.
+ sling.settings;version="[1.3,2)",org.osgi.framework;version="[1.5,2)",o
+ rg.osgi.service.event;version="[1.2,2)",org.slf4j;version="[1.5,2)",org
+ .w3c.dom,org.xml.sax
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Sling-Model-Packages: com.adobe.QRcodeGen.core
+Tool: Bnd-2.3.0.201405100607

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="adobeQueryAEDash_for_Distribution/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="adobeQueryAEDash_for_Distribution/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="adobeQueryAEDash_for_Distribution/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="adobeQueryAEDash_for_Distribution/lib/fluent-hc-4.5.1.jar"/>
+	<classpathentry kind="lib" path="adobeQueryAEDash_for_Distribution/lib/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="adobeQueryAEDash_for_Distribution/lib/httpclient-cache-4.5.1.jar"/>
+	<classpathentry kind="lib" path="adobeQueryAEDash_for_Distribution/lib/httpclient-win-4.5.1.jar"/>
+	<classpathentry kind="lib" path="adobeQueryAEDash_for_Distribution/lib/httpcore-4.1.1.jar"/>
+	<classpathentry kind="lib" path="adobeQueryAEDash_for_Distribution/lib/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="adobeQueryAEDash_for_Distribution/lib/jackson-annotations-2.6.5.jar"/>
+	<classpathentry kind="lib" path="adobeQueryAEDash_for_Distribution/lib/jackson-core-2.6.5.jar"/>
+	<classpathentry kind="lib" path="adobeQueryAEDash_for_Distribution/lib/jackson-databind-2.6.5.jar"/>
+	<classpathentry kind="lib" path="adobeQueryAEDash_for_Distribution/lib/jackson-jr-all-2.4.0.jar"/>
+	<classpathentry kind="lib" path="adobeQueryAEDash_for_Distribution/lib/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="adobeQueryAEDash_for_Distribution/lib/jjwt-0.4.jar"/>
+	<classpathentry kind="lib" path="adobeQueryAEDash_for_Distribution/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="adobeQueryAEDash_for_Distribution/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="adobeQueryAEDash_for_Distribution/lib/json-20140107 copy.jar"/>
+	<classpathentry kind="lib" path="adobeQueryAEDash_for_Distribution/lib/json-20140107.jar"/>
+	<classpathentry kind="lib" path="adobeQueryAEDash_for_Distribution/lib/security.jar"/>
+	<classpathentry kind="lib" path="adobeQueryAEDash_for_Distribution/lib/slf4j.api-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

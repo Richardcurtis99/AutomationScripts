@@ -1,0 +1,9 @@
+Export-Package: *
+Import-Package: *
+Private-Package: *
+# Include-Resource: 
+Bundle-Name: qrcode
+Bundle-Description: qrcode
+Bundle-SymbolicName: qrcode
+Bundle-Version: 1.0.0-SNAPSHOT
+Bundle-Activator: com.adobe.qrcode.Activator

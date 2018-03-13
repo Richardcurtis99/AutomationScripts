@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/Users/rcurtis/Downloads/Downloads/jackson-annotations-2.6.5.jar"/>
+	<classpathentry kind="lib" path="/Users/rcurtis/Downloads/Downloads/jackson-databind-2.6.5.jar"/>
+	<classpathentry kind="lib" path="/Users/rcurtis/Downloads/Downloads/jackson-core-2.6.5.jar"/>
+	<classpathentry kind="lib" path="/Users/rcurtis/Downloads/Downloads/jackson-jr-all-2.4.0.jar"/>
+	<classpathentry kind="lib" path="/Users/rcurtis/Downloads/Downloads/jjwt-0.4.jar"/>
+	<classpathentry kind="lib" path="/Users/rcurtis/Downloads/Downloads/httpcomponents-client-4.5.1/lib/httpclient-win-4.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/rcurtis/Downloads/Downloads/httpcomponents-client-4.5.1/lib/httpclient-cache-4.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/rcurtis/Downloads/Downloads/httpcomponents-client-4.5.1/lib/fluent-hc-4.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/rcurtis/Downloads/Downloads/httpcomponents-client-4.5.1/lib/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/rcurtis/Downloads/Downloads/httpcomponents-client-4.5.1/lib/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/rcurtis/Downloads/Downloads/httpcomponents-client-4.5.1/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/rcurtis/Downloads/Downloads/httpcomponents-client-4.5.1/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/rcurtis/Downloads/Downloads/httpcomponents-client-4.5.1/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="/Users/rcurtis/Downloads/Downloads/httpcomponents-client-4.5.1/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/rcurtis/Downloads/Downloads/json-20140107.jar"/>
+	<classpathentry kind="lib" path="/Users/rcurtis/Downloads/Downloads/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/rcurtis/Documents/workspace/adobeQueryAEDash_for_Distribution/lib/slf4j.api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/rcurtis/Downloads/Downloads/security.jar"/>
+	<classpathentry kind="lib" path="/Users/rcurtis/Downloads/Downloads/commons-io-2.4/commons-io-2.4.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
