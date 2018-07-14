@@ -1,0 +1,14 @@
+Node JS References
+
+https://willowtreeapps.com/ideas/serverless-architectures-for-multimodal-experiences
+
+
+https://codeburst.io/how-to-handle-multipart-form-data-in-nodejs-file-uploading-in-nodejs-26c0cb88adcf
+http://tleyden.github.io/blog/2017/07/02/openwhisk-action-sequences/
+https://www.raymondcamden.com/2017/01/06/an-example-of-an-openwhisk-sequence
+https://console.bluemix.net/docs/openwhisk/openwhisk_actions.html#openwhisk_actions
+https://medium.com/@oscar_reyes/polling-architecture-with-serverless-and-node-js-3b8d892e8394
+
+
+https://medium.com/adobetech/how-to-combine-rest-api-calls-with-javascript-promises-in-node-js-or-openwhisk-d96cbc10f299
+

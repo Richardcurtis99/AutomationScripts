@@ -1,0 +1,151 @@
+{
+	"clientID": "bbacd59193ae43a2b12b759f95fb6fd6",
+	"bearer": "eyJ4NXUiOiJpbXNfbmExLWtleS0xLmNlciIsImFsZyI6IlJTMjU2In0.eyJpZCI6IjE1MzE0OTYzNTA5MTdfNzhhZDRmNWYtNjEyOC00MDA4LWFhM2MtNzcwMmVkYWUzNDRiX3VlMSIsImNsaWVudF9pZCI6ImJiYWNkNTkxOTNhZTQzYTJiMTJiNzU5Zjk1ZmI2ZmQ2IiwidXNlcl9pZCI6IjU1MkM2MTA0NDY2OTVEMTE5OTIwMTZCN0BBZG9iZUlEIiwic3RhdGUiOiIiLCJ0eXBlIjoiYWNjZXNzX3Rva2VuIiwiYXMiOiJpbXMtbmExIiwiZmciOiJTUzQyV0NOQ1hQTjc2NzM3QUFBQUFBQUFQTT09PT09PSIsInJ0aWQiOiIxNTMxNDk2MzUwOTIwXzYzMGQxYzQwLTljMzAtNGI1MC1iZWM5LTYxY2IwNTUwNWJhZl91ZTEiLCJvYyI6InJlbmdhKm5hMXIqMTY0OTQ0YmMyODQqN00yRE5RS0Y0RDI5RDdSTlBLR1BDWjM5UTQiLCJydGVhIjoiMTUzMjcwNTk1MDkyMCIsIm1vaSI6IjlmNzU5YTVhIiwiYyI6Ik9Fc0EzeEVySUlEc2UrZVd6bU1xSUE9PSIsImV4cGlyZXNfaW4iOiI4NjQwMDAwMCIsInNjb3BlIjoib3BlbmlkLGNyZWF0aXZlX3NkayxBZG9iZUlELGFkZHJlc3MsZW1haWwscHJvZmlsZSIsImNyZWF0ZWRfYXQiOiIxNTMxNDk2MzUwOTE4In0.UvokZQ8QNH5Wmfzh5cdIavL224trXYcm4SXwSaZY761P76vU5qJnyzLbcdnDIUl5DqV1OGvS9qB3bm_u_-z-hJOIa-vhlSuxdCsId6thTl0NWU43GzlWTFcJG8eJglee0L-C2F1pLQDsun5ptD_MUuPE39fkVsgRP5CpOigmcVUTrbz6Xj-x5ZGgN4-bg3eXSiyK_ZDm4tyIXKHcyMzyD4KQkFwFvzZXbtw0TWrmaxRf52bjm0A2L36m0rM54g9_El7MLz2I5J2hcjw0o7ijSqPRlL0u_VMD7vMD6_6IebcWYyVLXj9HaVxXY2GOE-XP8RF2uwEaeoZNM9gofaXKCw",
+	"txm": "08:00",
+	"testnode": "agencyCollaboration",
+	"AEMserver" : "http://d5d20a76.ngrok.io",
+	"approvedFolderForDAM": "approvedFolderForAEM",
+	"agenciesInPlay": [
+		"Agency1", "Agency2"
+	],
+	"agency": [
+
+		{
+			"refName": "jobTemplate1",
+			"approvedFolderForDAM": "approvedFolderForAEM",
+			"AEShareName":"AE Agency Share",
+			"subFolders": [{
+					"name": "Breif",
+					"Documents": ["/Users/richardcurtis_Production/Creative Cloud Files/Barclaycard/TemplateDocuments/Brief.pdf"]
+				},
+				{
+					"name": "Response",
+					"Documents": ["/Users/richardcurtis_Production/Creative Cloud Files/Barclaycard/TemplateDocuments/AdobeStock_109220166.jpg",
+						"/Users/richardcurtis_Production/Creative Cloud Files/Barclaycard/TemplateDocuments/AdobeStock_64276046.jpg",
+						"/Users/richardcurtis_Production/Creative Cloud Files/Barclaycard/TemplateDocuments/photo_07.JPG"
+					]
+				},
+				{
+					"name": "Images",
+					"Documents": ["/Users/richardcurtis_Production/Creative Cloud Files/Barclaycard/TemplateDocuments/AdobeStock_113534069.jpg",
+						"/Users/richardcurtis_Production/Creative Cloud Files/Barclaycard/TemplateDocuments/AdobeStock_87757612.jpg",
+						"/Users/richardcurtis_Production/Creative Cloud Files/Barclaycard/TemplateDocuments/AdobeStock_114989374_1.jpg"
+					]
+				},
+				{
+					"name": "Other",
+					"Documents": ["/Users/richardcurtis_Production/Creative Cloud Files/Barclaycard/TemplateDocuments/AdobeStock_114989374_1.jpg",
+						"/Users/richardcurtis_Production/Creative Cloud Files/Barclaycard/TemplateDocuments/AdobeStock_87757987.jpg",
+						"/Users/richardcurtis_Production/Creative Cloud Files/Barclaycard/TemplateDocuments/AdobeStock_109220166.jpg",
+						"/Users/richardcurtis_Production/Creative Cloud Files/Barclaycard/TemplateDocuments/AdobeStock_113534069.jpg"
+					]
+				}
+			]
+		},
+		{
+			"refName": "jobTemplate2",
+			"approvedFolderForDAM": "approvedFolderForAEM",
+			"AEShareName":"AE Agency Share",
+			"subFolders": [{
+					"name": "CREATIVE",
+					"subFolders": [{"name":"LAYOUTS"},
+								{"name":"REF"},
+								{"name":"SCRIPTS"},
+								{"name":"WIP"}]
+				},
+				{
+					"name": "DESIGN",
+					"subFolders": [{"name":"LAYOUTS"},
+								{"name":"OLD"}, 
+								{"name":"REF"},
+								{"name":"SUPPLIED ASSETS"}]
+				},
+				{
+					"name": "PRODUCTION",
+					"subFolders": [{
+							"name": "AV",
+							"subFolders": [{
+									"name": "ADMIN",
+									"subFolders": [{"name":"FACTSHEET"}, 
+												{"name":"SCHEDULES / TIMINGS"}]
+								},
+								{
+									"name": "CASTING & WARDROBE",
+									"subFolders": [{"name":"FINAL ASSETS"},
+													{"name":"WIP"}]
+								},
+								{
+									"name": "DIRECTOR TREATMENTS",
+									"subFolders": [{"name":"ESTIMATES"}, 
+												{"name":"INVOICES"}, 
+												{"name":"PO"}]
+								},
+								{
+									"name": "ENDFRAMES"
+								},
+								{
+									"name": "FINANCE",
+									"subFolders": [{"name":"ESTIMATES"}, 
+												{"name":"INVOICES"}, 
+												{"name":"PO"}]
+								},
+								{
+									"name": "LOCATION & ART DEPT"
+								},
+								{
+									"name": "MUSIC"
+								},
+								{
+									"name": "TRAVEL"
+								}
+							]
+						},
+						{
+							"name": "DIGITAL",
+							"subFolders": [{
+									"name": "BREIFS"
+								},
+								{
+									"name": "FACTSHEET"
+								},
+								{
+									"name": "FINANCE",
+									"subFolders": [{"name":"ESTIMATES"},
+													 {"name":"INVOICES"}, 
+													 {"name":"PO"}]
+								},
+								{
+									"name": "PRODUCTION",
+									"subFolders": [{"name":"FINAL ASSETS"}, 
+												{"name":"WIP"}]
+								},
+								{
+									"name": "SCHEDULES / TIMINGS"
+								},
+								{
+									"name": "SOW"
+								}
+							]
+						},
+						{
+							"name": "PRINT",
+							"subFolders": [{"name":"FACTSHEET"},
+										 {"name":"FINANCE"},
+										 {"name":"PRODUCTION"},
+										 {"name":"SCHEDULES & TIMINGS"}]
+						}
+					]
+				},
+				{
+					"name": "STUDIO",
+					"subFolders": [{"name":"ARTWORK DEVELOPMENT"},
+					 				{"name":"ARTWORK FINAL"},
+					 				{"name":"IMAGES"},
+					 				{"name":"PDFS"}, 
+					 				{"name":"REFERENCE"}]
+				}
+
+			]
+		}
+	]
+}
