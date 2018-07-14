@@ -1,0 +1,17 @@
+need to create the sequence actions first
+
+Sequence of events
+. 1 capture request from the CC Event Payload - This is configured in the IO dashbaord and will be the web hook
+in this case, the webhook will be the V3ProcessCCEvtpayload (a virtual component)
+2. utils/getAgencyCollaborationConfig - get the current collaboration config settings
+3. utils/getCCAssetRAW - get the RAW file pre-signed URL
+4. utils/postCCAssetToAEM -post the data to the AEM Servlet
+** end
+
+- create the V3ProcessCCEvtpayload, virtual action
+wsk action create V3ProcessCCEvtpayload --sequence utils/getAgencyCollaborationConfig,utils/getCCAssetRAW,utils/postCCAssetToAEM  --web true
+wsk action update V3ProcessCCEvtpayload --sequence utils/getAgencyCollaborationConfig,utils/getCCAssetRAW,utils/postCCAssetToAEM  --web true
+
+wsk action update -i V3ProcessCCEvtpayload --sequence FilterAction,SortAction  --web true
+
+
