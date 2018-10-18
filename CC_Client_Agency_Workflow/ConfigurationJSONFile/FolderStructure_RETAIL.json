@@ -3,7 +3,7 @@
 	"bearer": "eyJ4NXUiOiJpbXNfbmExLWtleS0xLmNlciIsImFsZyI6IlJTMjU2In0.eyJpZCI6IjE1MzY3NDAyNzI4NjBfNDg5YjQwMzctNGNiMi00ZGUxLWFmY2UtNGVmMjNlZmJkMDcyX3VlMSIsImNsaWVudF9pZCI6ImJiYWNkNTkxOTNhZTQzYTJiMTJiNzU5Zjk1ZmI2ZmQ2IiwidXNlcl9pZCI6IjU1MkM2MTA0NDY2OTVEMTE5OTIwMTZCN0BBZG9iZUlEIiwic3RhdGUiOiIiLCJ0eXBlIjoiYWNjZXNzX3Rva2VuIiwiYXMiOiJpbXMtbmExIiwiZmciOiJTWUhSQzRGVlhMUDcyUDdYQzRBQUFBQUFGTT09PT09PSIsInNpZCI6IjE1MzYwNjU4ODMzNTVfMTE3MmMwMjgtZTA3Mi00ZDZlLWI1OTctYTMyZTdlMzc4ZmY3X3VlMSIsInJ0aWQiOiIxNTM2NzQwMjcyODYxXzI4OGE1NTNkLWUxNDMtNDczMS1iOTg0LTQ5NzhmYWFlOWMxMF91ZTEiLCJvYyI6InJlbmdhKm5hMXIqMTY1Y2NkYmE3NWUqTkpZUkJDMENUSDROQjZTWENYR0NQMEpWVlciLCJydGVhIjoiMTUzNzk0OTg3Mjg2MSIsIm1vaSI6IjQ4NTQyYjZjIiwiYyI6Iit3OGc3a1NMelhqeHdJS1ZOdFpiclE9PSIsImV4cGlyZXNfaW4iOiI4NjQwMDAwMCIsInNjb3BlIjoib3BlbmlkLGNyZWF0aXZlX3NkayxBZG9iZUlELGFkZHJlc3MsZW1haWwscHJvZmlsZSIsImNyZWF0ZWRfYXQiOiIxNTM2NzQwMjcyODYwIn0.XCXXfS3jtfMsj__vG1lneM7LdQ7B1qQPjYLHzvYw9urY1-Pf2e5ksllYgjqxbUciM1cToiFTqjmAOcOrwT_hoJalCUp9_8Sw9Ri0ABOtvCjALuB3k4gPAlSbRTKrRt1K-tIZg3YuKvVZCqQEJqPgXkog6OyILzdT5OLKtDZnLEXrqTx3zBQbZ8cavMnpvhevMgnCoPRg16eumllLIDolA_Vf2CCQx_mmZr9YdHGWO11dd3vaUBTCZGyggfpfgyBa3RKh027I3MZ2MBHe1lyxJy3cIZE2GTrdsKEizpAAOyFCBS_mnhdwQZz1vBkegVcn9rzzvQFhNf7CawUboMWI3A",
 	"txm": "08:00",
 	"testnode": "agencyCollaboration",
-	"AEMserver" : "https://author617.adobedemo.com/",
+	"AEMserver" : "https://author617.adobedemo.com",
 	"approvedFolderForDAM": "approvedFolderForAEM",
 	"agenciesInPlay": [
 		"Agency1", "Agency2","PhotoStudio"
@@ -143,19 +143,19 @@
 					 				{"name":"IMAGES"},
 					 				{"name":"PDFS"}, 
 					 				{"name":"REFERENCE"}]
-				},
-				{
+				}
+				]
+		},
+		{
 					"refName": "PhotoRequest",
 					"approvedFolderForDAM": "approvedFolderForAEM",
 					"AEShareName":"Photo Studio Share",
 					"subFolders": [{
-					"name": "PIMM_1234567",
-					"subFolders": [{"name":"Shoot"},
-								{"name":"Selects"}]
-					}]
-				}
-	]
-		}
+						"name": "SKU_1234567"
+											}]
+		
 
+			
+		}
 	]
 }
